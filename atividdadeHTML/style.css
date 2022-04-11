@@ -1,0 +1,79 @@
+header{
+    background-color: antiquewhite;
+}
+.tituloPrincipal{
+    background-color: antiquewhite;
+    font-size: 50px;
+}
+
+.conteudo{
+    text-align: center;
+    background-color: #ffe4ff;
+}
+
+#sobreMim{
+    font-size: 30px;
+    text-align: center;
+}
+
+nav{
+    position: absolute;
+    left: 45%;
+    top: 10%;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+
+.logo{
+    width: 10%;
+}
+
+.animais{
+    width: 900px;
+    margin: 0 auto; 
+    padding: 5px;
+    display: inline;
+    font-size: 30px;
+    text-align: center;
+}
+
+.textoCentralizado{
+    text-align: center;
+    font-size: 30px;
+}
+
+.rodape{
+    background-color: burlywood;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.projeto li{
+    text-align: center;
+    font-size: 22px;
+}
+.bolas{
+    background-color: floralwhite;
+    text-align: center;
+    vertical-align: top;
+    border: solid 10px;
+}
+.bolas2{
+    background-color: floralwhite;
+    text-align: center;
+    vertical-align: top;
+    border: solid 10px;
+}
+
