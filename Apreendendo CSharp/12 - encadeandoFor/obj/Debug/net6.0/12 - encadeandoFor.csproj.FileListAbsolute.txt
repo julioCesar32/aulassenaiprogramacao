@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\12 - encadeandoFor\bin\Debug\net6.0\12 - encadeandoFor.exe
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\12 - encadeandoFor\bin\Debug\net6.0\12 - encadeandoFor.deps.json
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\12 - encadeandoFor\bin\Debug\net6.0\12 - encadeandoFor.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\12 - encadeandoFor\bin\Debug\net6.0\12 - encadeandoFor.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\12 - encadeandoFor\bin\Debug\net6.0\12 - encadeandoFor.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\12 - encadeandoFor\obj\Debug\net6.0\12 - encadeandoFor.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\12 - encadeandoFor\obj\Debug\net6.0\12 - encadeandoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\12 - encadeandoFor\obj\Debug\net6.0\12 - encadeandoFor.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\12 - encadeandoFor\obj\Debug\net6.0\12 - encadeandoFor.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\12 - encadeandoFor\obj\Debug\net6.0\12 - encadeandoFor.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\12 - encadeandoFor\obj\Debug\net6.0\12 - encadeandoFor.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\12 - encadeandoFor\obj\Debug\net6.0\refint\12 - encadeandoFor.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\12 - encadeandoFor\obj\Debug\net6.0\12 - encadeandoFor.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\12 - encadeandoFor\obj\Debug\net6.0\12 - encadeandoFor.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\12 - encadeandoFor\obj\Debug\net6.0\ref\12 - encadeandoFor.dll

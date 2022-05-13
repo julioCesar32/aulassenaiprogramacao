@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade_1\bin\Debug\net6.0\Atividade_1.exe
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade_1\bin\Debug\net6.0\Atividade_1.deps.json
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade_1\bin\Debug\net6.0\Atividade_1.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade_1\bin\Debug\net6.0\Atividade_1.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade_1\bin\Debug\net6.0\Atividade_1.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade_1\obj\Debug\net6.0\Atividade_1.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade_1\obj\Debug\net6.0\Atividade_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade_1\obj\Debug\net6.0\Atividade_1.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade_1\obj\Debug\net6.0\Atividade_1.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade_1\obj\Debug\net6.0\Atividade_1.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade_1\obj\Debug\net6.0\Atividade_1.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade_1\obj\Debug\net6.0\refint\Atividade_1.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade_1\obj\Debug\net6.0\Atividade_1.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade_1\obj\Debug\net6.0\Atividade_1.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade_1\obj\Debug\net6.0\ref\Atividade_1.dll

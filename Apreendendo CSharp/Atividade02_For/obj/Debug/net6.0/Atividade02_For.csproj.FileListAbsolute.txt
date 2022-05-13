@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade02_For\obj\Debug\net6.0\Atividade02_For.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade02_For\obj\Debug\net6.0\Atividade02_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade02_For\obj\Debug\net6.0\Atividade02_For.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade02_For\obj\Debug\net6.0\Atividade02_For.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade02_For\obj\Debug\net6.0\Atividade02_For.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade02_For\bin\Debug\net6.0\Atividade02_For.exe
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade02_For\bin\Debug\net6.0\Atividade02_For.deps.json
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade02_For\bin\Debug\net6.0\Atividade02_For.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade02_For\bin\Debug\net6.0\Atividade02_For.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade02_For\bin\Debug\net6.0\Atividade02_For.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade02_For\obj\Debug\net6.0\Atividade02_For.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade02_For\obj\Debug\net6.0\refint\Atividade02_For.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade02_For\obj\Debug\net6.0\Atividade02_For.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade02_For\obj\Debug\net6.0\Atividade02_For.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\Atividade02_For\obj\Debug\net6.0\ref\Atividade02_For.dll

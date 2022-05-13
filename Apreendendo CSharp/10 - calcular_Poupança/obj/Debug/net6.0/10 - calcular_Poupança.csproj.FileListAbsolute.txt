@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\10 - calcular_Poupança\bin\Debug\net6.0\10 - calcular_Poupança.exe
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\10 - calcular_Poupança\bin\Debug\net6.0\10 - calcular_Poupança.deps.json
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\10 - calcular_Poupança\bin\Debug\net6.0\10 - calcular_Poupança.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\10 - calcular_Poupança\bin\Debug\net6.0\10 - calcular_Poupança.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\10 - calcular_Poupança\bin\Debug\net6.0\10 - calcular_Poupança.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\10 - calcular_Poupança\obj\Debug\net6.0\10 - calcular_Poupança.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\10 - calcular_Poupança\obj\Debug\net6.0\10 - calcular_Poupança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\10 - calcular_Poupança\obj\Debug\net6.0\10 - calcular_Poupança.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\10 - calcular_Poupança\obj\Debug\net6.0\10 - calcular_Poupança.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\10 - calcular_Poupança\obj\Debug\net6.0\10 - calcular_Poupança.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\10 - calcular_Poupança\obj\Debug\net6.0\10 - calcular_Poupança.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\10 - calcular_Poupança\obj\Debug\net6.0\refint\10 - calcular_Poupança.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\10 - calcular_Poupança\obj\Debug\net6.0\10 - calcular_Poupança.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\10 - calcular_Poupança\obj\Debug\net6.0\10 - calcular_Poupança.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\10 - calcular_Poupança\obj\Debug\net6.0\ref\10 - calcular_Poupança.dll

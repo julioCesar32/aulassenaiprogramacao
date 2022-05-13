@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\11 - investimentoaoLongoPrazo\bin\Debug\net6.0\11 - investimentoaoLongoPrazo.exe
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\11 - investimentoaoLongoPrazo\bin\Debug\net6.0\11 - investimentoaoLongoPrazo.deps.json
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\11 - investimentoaoLongoPrazo\bin\Debug\net6.0\11 - investimentoaoLongoPrazo.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\11 - investimentoaoLongoPrazo\bin\Debug\net6.0\11 - investimentoaoLongoPrazo.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\11 - investimentoaoLongoPrazo\bin\Debug\net6.0\11 - investimentoaoLongoPrazo.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\11 - investimentoaoLongoPrazo\obj\Debug\net6.0\11 - investimentoaoLongoPrazo.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\11 - investimentoaoLongoPrazo\obj\Debug\net6.0\11 - investimentoaoLongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\11 - investimentoaoLongoPrazo\obj\Debug\net6.0\11 - investimentoaoLongoPrazo.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\11 - investimentoaoLongoPrazo\obj\Debug\net6.0\11 - investimentoaoLongoPrazo.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\11 - investimentoaoLongoPrazo\obj\Debug\net6.0\11 - investimentoaoLongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\11 - investimentoaoLongoPrazo\obj\Debug\net6.0\11 - investimentoaoLongoPrazo.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\11 - investimentoaoLongoPrazo\obj\Debug\net6.0\refint\11 - investimentoaoLongoPrazo.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\11 - investimentoaoLongoPrazo\obj\Debug\net6.0\11 - investimentoaoLongoPrazo.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\11 - investimentoaoLongoPrazo\obj\Debug\net6.0\11 - investimentoaoLongoPrazo.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\11 - investimentoaoLongoPrazo\obj\Debug\net6.0\ref\11 - investimentoaoLongoPrazo.dll

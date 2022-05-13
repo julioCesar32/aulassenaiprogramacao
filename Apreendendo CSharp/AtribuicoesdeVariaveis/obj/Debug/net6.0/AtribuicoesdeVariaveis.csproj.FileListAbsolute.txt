@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\AtribuicoesdeVariaveis\bin\Debug\net6.0\AtribuicoesdeVariaveis.exe
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\AtribuicoesdeVariaveis\bin\Debug\net6.0\AtribuicoesdeVariaveis.deps.json
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\AtribuicoesdeVariaveis\bin\Debug\net6.0\AtribuicoesdeVariaveis.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\AtribuicoesdeVariaveis\bin\Debug\net6.0\AtribuicoesdeVariaveis.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\AtribuicoesdeVariaveis\bin\Debug\net6.0\AtribuicoesdeVariaveis.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\AtribuicoesdeVariaveis\obj\Debug\net6.0\AtribuicoesdeVariaveis.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\AtribuicoesdeVariaveis\obj\Debug\net6.0\AtribuicoesdeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\AtribuicoesdeVariaveis\obj\Debug\net6.0\AtribuicoesdeVariaveis.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\AtribuicoesdeVariaveis\obj\Debug\net6.0\AtribuicoesdeVariaveis.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\AtribuicoesdeVariaveis\obj\Debug\net6.0\AtribuicoesdeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\AtribuicoesdeVariaveis\obj\Debug\net6.0\AtribuicoesdeVariaveis.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\AtribuicoesdeVariaveis\obj\Debug\net6.0\refint\AtribuicoesdeVariaveis.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\AtribuicoesdeVariaveis\obj\Debug\net6.0\AtribuicoesdeVariaveis.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\AtribuicoesdeVariaveis\obj\Debug\net6.0\AtribuicoesdeVariaveis.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\logica\CSharp\Apreendendo CSharp\AtribuicoesdeVariaveis\obj\Debug\net6.0\ref\AtribuicoesdeVariaveis.dll
